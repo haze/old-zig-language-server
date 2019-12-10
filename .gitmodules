@@ -1,0 +1,3 @@
+[submodule "zig-json-decode"]
+	path = zig-json-decode
+	url = git@github.com:haze/zig-json-decode
